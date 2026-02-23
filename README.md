@@ -45,7 +45,7 @@ Steps to edit locally:
   - this will enable live previews and checks (see below)
   - when you're ready, merge pull request into `main`. Note this need to be "final" -- it's best practice to merge thematic content changes together
 
-> [!NOTE]
+> [!NOTE] 
 > If you don't plan on editing the notebooks, you can skip the `myst.yml` and `jupyter lab` steps above
 
 ## Preview draft deployed site

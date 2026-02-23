@@ -38,37 +38,3 @@ Epoxy resins offer  excellent sectioning properties and compatibility with stand
 However, epoxy resins can be problematic for polymer composite samples due to  potential chemical contamination, thermal degradation during curing, and difficulty sectioning heterogeneous mineral assemblages [@https://doi.org/10.3390/life10080135; @plummer2025ultramicrotomy].
 Epoxy resins are generally not robust to the probe current densities widely used in conventional field emission and aberration-corrected scanning transmission electron microscopes [@https://doi.org/10.1016/j.micron.2004.02.003; @https://doi.org/10.1017/S1431927608080902]. 
 Sulfur is a useful alternative to epoxy embedding because it provides the necessary mechanical robustness for the microtomy, and can be sublimated at low temperature after the section to leave the bare sample section. This eliminates the vacuum degradation from the epoxy outgassing  in the electron microscope, sample contamination from volatilization and redeposition of the epoxy hydrocarbons and beam-induced shrinkage of the epoxy leading to sample mechanical instability in the microscope. This study presents a comprehensive sulfur-embedding protocol specifically optimized for preparing ultrathin sections (50-100 nm in thickness) particles with varied composition. We evaluate sectioning quality, sample preservation, and compatibility with advanced microscopic and spectroscopic techniques without conventional epoxy embedding methods.
-
-
-### The Ultramicrotome
-The essential components of a microtome are: a sample mounted in/on a bullet of epoxy; a chuck to secure the bullet; a knife blade; a mechanism to advance the sample towards the knife, and raise and lower the sample vertically at the knife edge. 
-
-:::{figure} ./figures/Figure1microtome.png
-:name: fig_microtome
-Figure 1.
-:::
-
-:::{figure} ./figures/Figure2microtome_set_up.png
-:name: fig_setup
-Figure 2.
-:::
-
-
-Knife and Knife Holder: The ultramicrotome uses either a glass knife for initial rough cuts or diamond knife for most ultra-thin sectioning. 
-Diamond knives come in different angles, typically 35°or 45°, with edge lengths ranging from 1 to 7 mm depending on the application. 
-The knife has an attached boat or trough that holds water, allowing the sections to float as they are cut.
-Sample Holder (Chuck): The sample holder secures the embedded specimen block and includes a built-in system for orienting the sample surface relative to the knife blade. 
-Different types of chucks accommodate samples embedded in various molded shapes (generally pyramidal).
-Mechanical Advance System: The mechanical system controls the sectioning interval and determines section thickness. 
-It includes a drive wheel and knife wheel that precisely advance the sample toward the knife. 
-Modern ultramicrotomes use mechanical advance systems, while older models used thermal expansion where heating an arm caused it to lengthen and advance the sample. 
-This allows for personally controlled movements necessary for rough cutting.
-Stereomicroscope: A binocular stereomicroscope is mounted on the ultramicrotome to view the knife holder and block in three dimensions during setup and sectioning.
-Control System: Modern ultramicrotomes have controls for adjusting cutting speed, section thickness, and positioning. 
-The operator must manage six degrees of freedom: X and Y axes of the knife holder, rotational angle of the knife holder, clearance angle of the knife holder, and the pitch and rotation of the block.
-Stage: The base platform holds and positions the sample holder, allowing for precise trimming and sectioning operations.
-Automated ultramicrotomes advance the specimen arm holding the embedded sample block towards the cutting knife edge with precision and reproducibility. 
-The knife stage maintains the cutting edge at adjustable clearance angles, typically 6°, optimized for the specimen's properties. 
-A stereomicroscope with appropriate illumination permits real-time monitoring of the sectioning process. 
-The sample slices float off of the knife into a bath, usually filled with water.
-Either glass or diamond knives can be used, depending on the materials being cut and the desired thickness.
