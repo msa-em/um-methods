@@ -111,7 +111,7 @@ title: Troubleshooting Guide
 :width: 100%
 **Defects produced by a chipped diamond blade.** These appear as linear striations running parallel to the cutting direction, traversing the full section length. Unlike chatter bands, which are periodic and perpendicular to the cut, chip-derived marks occupy a fixed lateral position across all successive sections, reflecting the invariant location of the defect along the blade edge. Sample is displaced or torn at the striation, obscuring ultrastructural detail in affected regions. The artifact is confirmed by its consistency across a series and eliminated by advancing the specimen to an undamaged region of the knife edge.
 ```
-## Bubbles/Voids
+### Bubbles/Voids
 
 ```{figure} ./figures/bubbles.png
 :name: bubbles
@@ -119,7 +119,7 @@ title: Troubleshooting Guide
 **Bubble formation within sulfur droplets.** This produces discrete voids upon solidification that compromise sample integrity in two principal ways. These bubbles disrupt adhesion between the embedding medium and the sample, leading to focal dropout during sectioning. In regions requiring mechanical stability for serial sectioning, bubble-derived holes propagate across successive sections, causing potential irreversible sample loss. 
 ```
 
-Overheated Sulfur
+### Overheated Sulfur
 
 ```{figure} ./figures/overheated_annotated_final.png
 **Representative crystallized sulfur droplets showing correct (left) and overheated (right) samples.** The left droplet displays the expected coloration indicative of properly processed sulfur, while the right droplet exhibits an orange discoloration characteristic of thermal degradation or scorching. Overheating causes partial oxidation or structural changes in the sulfur crystal lattice, resulting in the observed color shift.
