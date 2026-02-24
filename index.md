@@ -1,5 +1,5 @@
 ---
-title: 'Sulfur Embedding for Ultramictrotomy'
+title: 'Sulfur Embedding for Epoxy-Free Ultramictrotomy'
 short_title: UM methods
 numbering:
   heading_2: false

@@ -4,7 +4,7 @@ title: Methods
 
 ## Materials and Set Up
 
-#### The primary steps of ultramicrotomy are as follows:
+**The primary steps of ultramicrotomy are as follows:**
 1. Specimen infiltration with embedding medium (herein sulfur)
 2. Solidification of the medium with embedded specimen to form a rigid block
 3. Block trimming to create appropriate block face geometry

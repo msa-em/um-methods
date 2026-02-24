@@ -96,6 +96,11 @@ Move the knife back several steps (25 μm) to avoid accidentally crashing the su
 
 Shavings should look "fronthy" and evolve into a translucent, solid peel.
 
+:::{figure} ./figures/final_rough_cutting.mp4
+:name: rough_cut_final
+**Final stage of rough cutting and polishing the pyrimid face.** Video illustrating the final steps of surface polishing of the block face using a glass knife to achieve optical flatness before transition to a diamond knife, ensuring that residual chatter marks, compression artifacts, and surface irregularities introduced during rough cutting are minimized.
+:::
+
 :::{figure} ./figures/fig_23.png
 :name: sulfur_section_post_rough_trim
 **Evolution of sulfur section morphology during sequential glass knife cutting.** Early rough cuts show a characteristic frothy texture, transitioning to smooth, iridescent peels as section thickness decreases. The iridescent appearance signals optimal surface quality for final ultrathin sectioning with the diamond knife.
@@ -126,6 +131,7 @@ Shavings should look "fronthy" and evolve into a translucent, solid peel.
 - Verify absence of chatter marks
 - Capture images to document surface quality
 - Record cutting parameters used
+
 
 ## Fine Polishing (250-<100nm) and Optimized Cutting Conditions
 - Fresh cutting fluid (ultrapure water)
