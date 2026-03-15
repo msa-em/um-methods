@@ -9,7 +9,7 @@ title: Particle Picking and Sulfur Embedding Protocol
 - Stage Calibration: Calibrate precise sample mounting stage using reference standards. Verify repeatability of positioning to within ±1 μm. Test stage stability under vibration and thermal conditions. Ensure smooth operation of all mechanical adjustments without drift or play.
 
 :::{figure} ./figures/fig_5.png
-:name: fig_5
+:name: micromanipulator_setup
 **Micromanipulator for precision specimen manipulation.** The Microsupport Axis Pro micromanipulator provides multi-axis control for precise positioning and manipulation of specimens during microscopy and sample preparation. The device features independent X, Y, and Z-axis adjustment with fine-scale control, allowing operators to achieve micrometer-level positioning accuracy. 
 :::
 
@@ -22,11 +22,11 @@ title: Particle Picking and Sulfur Embedding Protocol
 - Optical Integration: Position heated plate system to maintain optimal working distance for microscope objectives. Verify that heating elements do not interfere with illumination or create optical artifacts. Test visibility and focus quality at all required magnifications during heating cycles.
 
 :::{figure} ./figures/fig_6a.png
-:name: removable_stage
+:name: removable_stage_setup
 :::
 
 :::{figure} ./figures/fig_6b.png
-:name: stage_mounted
+:name: stage_mounted_setup
 **Custom removable stage for sulfur embedding.** A specialized stage was fabricated with increased mass for vibration dampening, thermal isolation to prevent external heat transfer, and precise leveling mechanisms. Isolation mounts decouple the working surface from building vibrations and mechanical disturbances, ensuring stable conditions during the critical sulfur solidification phase and precise specimen positioning.
 :::
 
@@ -223,6 +223,5 @@ Comprehensive Photography Protocol:
 - Environmental Storage Controls: Store embedded samples in a controlled environment with stable temperature (20±2°C), low humidity (<50% RH), and minimize mechanical stress. Use desiccant if needed to control moisture exposure.
 - Sample Labeling Protocol: Apply comprehensive labeling system including unique sample identification numbers, preparation date, operator identification, and critical preparation parameters. Use permanent marking methods resistant to solvents and mechanical handling during subsequent processing.
 - Quality Pre-Assessment: Conduct final quality assessment before releasing samples for sectioning including visual inspection, dimensional verification, and mechanical integrity testing. Document sample condition and any recommendations or precautions for sectioning personnel.
-
 
 
