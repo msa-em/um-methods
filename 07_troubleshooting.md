@@ -8,7 +8,6 @@ title: Troubleshooting Guide
 :::{tab-item} Compression 
 
 :::{list-table}
-:widths: 15 15 30
 :header-rows: 1
 
 *   - **Symptoms**
@@ -23,7 +22,6 @@ title: Troubleshooting Guide
 
 
 :::{list-table}
-:widths: 15 15 30
 :header-rows: 1
 
 *   - **Symptoms**
@@ -38,7 +36,6 @@ title: Troubleshooting Guide
 
 
 :::{list-table}
-:widths: 15 15 30
 :header-rows: 1
  
 *   - **Symptoms**
@@ -53,7 +50,6 @@ title: Troubleshooting Guide
 
 
 :::{list-table}
-:widths: 15 15 30
 :header-rows: 1
 
 *   - **Symptoms**
@@ -71,7 +67,6 @@ title: Troubleshooting Guide
 
 
 :::{list-table}
-:widths: 15 15 30
 :header-rows: 1
 
 *   - **Symptoms**

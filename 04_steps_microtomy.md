@@ -237,7 +237,7 @@ Never grip grids with tweezers into film, only clip on the metal frame or the fi
 **View of the mounted sulfur ribbon showing the actual sample (in magenta) embedded within the sections, allowing for assessment of sample preservation and distribution within the ultrathin sections.**
 :::
 
-#### Critical Success Factors
+### Critical Success Factors
 - Maintain minimal contamination conditions at all times.
 - Exercise patience during all manipulation procedures.
 - Use steady, controlled techniques for all movements.
@@ -248,7 +248,6 @@ Never grip grids with tweezers into film, only clip on the metal frame or the fi
 :name: a-tip-reference
 **Documentation is extremley important before baking and after.** Document every step thoroughly for reproducibility and troubleshooting. The sulfur sections are easy to see in reflected light, but identifying the locations of the sample in the sulfur will ultimately help identify sample locations post-sublimation. 
 :::
-
 
 
 
