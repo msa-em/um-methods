@@ -74,7 +74,7 @@ title: Troubleshooting Guide
     - **Solutions**
 *   - sulfur color change from light yellow to orange
 	- overheating
-	- monitor temperature carefully, use temperature controlled heating and consistenct calibration to avoid scorching, keep sulfur temperature below 120°C, do not re-use sulfur, discard discolored sulfur
+		- monitor temperature carefully, use temperature-controlled heating and consistent calibration to avoid scorching, keep sulfur temperature below 120°C, do not re-use sulfur, discard discolored sulfur
 
 :::
 

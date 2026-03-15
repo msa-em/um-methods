@@ -40,19 +40,18 @@ Steps to edit locally:
 - start the jupyter server in one of the terminal windows (`jupyter lab --IdentityProvider.token=512ac78f14e1141db1fac17e8b4099c1e5bc7d589518b38c --ServerApp.allow_origin='http://localhost:3000' --port=8888`)
 - start MyST in the other terminal window (`myst start`)
 - edit, commit, and push to `dev` as per usual
-  - make sure **NOT** to commit your `must.yml` changes!
+  - make sure **NOT** to commit your `myst.yml` changes!
 - open a draft pull request into `main` (if one doesn't already exist) and keep pushing your changes to `dev`
   - this will enable live previews and checks (see below)
-  - when you're ready, merge pull request into `main`. Note this need to be "final" -- it's best practice to merge thematic content changes together
+  - when you're ready, merge pull request into `main`. Note this needs to be "final" -- it's best practice to merge thematic content changes together
 
 > [!NOTE] 
 > If you don't plan on editing the notebooks, you can skip the `myst.yml` and `jupyter lab` steps above
 
 ## Preview draft deployed site
-The repo has two github actions to automatically deploy computational sites, for the following two case:
+The repo has two GitHub Actions to automatically deploy computational sites, for the following two cases:
 - Commits to `main` directly
 - Pull requests into `main`
 
 If you followed the instructions above (i.e. working off of `dev` and have an open pull request into `main`), then you should see a `github-actions` bot at the top of your pull request which will keep getting edited.
 Simply click on the `Inspect` link to see the curvenote staging site, and press `preview` to see the deployed site based on your latest commit.
-

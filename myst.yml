@@ -3,7 +3,7 @@ version: 1
 project:
   id: msa-em-um-methods-1
   title: Ultramicrotomy Methods
-  description: Sulfur Embedding for Ultramictrotomy.
+  description: Sulfur Embedding for Ultramicrotomy.
   short_title: Ultramicrotomy Methods
   keywords:
     - Keyword One
@@ -42,7 +42,7 @@ project:
           department: School of Earth and Space Exploration
           institution: Arizona State University
           address: 1151 S Forest Ave, Tempe, Arizona, USA 85287
-          ror: 02jbv0t02
+          ror: 03efmqc40
       roles:
         - Conceptualization
         - Funding acquisition
@@ -59,7 +59,7 @@ project:
           department: Buseck Center for Meteorite Studies
           institution: Arizona State University
           address: 1151 S Forest Ave, Tempe, Arizona, USA 85287
-          ror: 01an7q238
+          ror: 03efmqc40
       roles:
         - Conceptualization
         - Software

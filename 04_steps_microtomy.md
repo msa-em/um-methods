@@ -94,11 +94,11 @@ Move the knife back several steps (25 μm) to avoid accidentally crashing the su
 **Final cut face of the sulfur sample after polishing with the glass knife.** Note the bright, mirror-like reflections from the fully polished edges, indicating excellent surface quality and readiness for diamond knife sectioning.
 :::
 
-Shavings should look "fronthy" and evolve into a translucent, solid peel.
+Shavings should look "frothy" and evolve into a translucent, solid peel.
 
 :::{figure} ./figures/final_rough_cutting.mp4
 :name: rough_cut_final
-**Final stage of rough cutting and polishing the pyrimid face.** Video illustrating the final steps of surface polishing of the block face using a glass knife to achieve optical flatness before transition to a diamond knife, ensuring that residual chatter marks, compression artifacts, and surface irregularities introduced during rough cutting are minimized.
+**Final stage of rough cutting and polishing the pyramid face.** Video illustrating the final steps of surface polishing of the block face using a glass knife to achieve optical flatness before transition to a diamond knife, ensuring that residual chatter marks, compression artifacts, and surface irregularities introduced during rough cutting are minimized.
 :::
 
 :::{figure} ./figures/fig_23.png
@@ -246,7 +246,6 @@ Never grip grids with tweezers into film, only clip on the metal frame or the fi
 :::{tip}
 :class: myclass1 myclass2
 :name: documentation_tip
-**Documentation is extremley important before baking and after.** Document every step thoroughly for reproducibility and troubleshooting. The sulfur sections are easy to see in reflected light, but identifying the locations of the sample in the sulfur will ultimately help identify sample locations post-sublimation. 
+**Documentation is extremely important before baking and after.** Document every step thoroughly for reproducibility and troubleshooting. The sulfur sections are easy to see in reflected light, but identifying the locations of the sample in the sulfur will ultimately help identify sample locations post-sublimation. 
 :::
-
 

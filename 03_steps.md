@@ -70,7 +70,7 @@ Sample Preparation and Documentation
 
 :::{figure} ./figures/particle_picking.png
 :name: particle_picking_micromanipulator
-**Micrograph of target particles and glass needles for transferrring to molten sulfur.**
+**Micrograph of target particles and glass needles for transferring to molten sulfur.**
 :::
 
 ### System Calibration
@@ -223,5 +223,4 @@ Comprehensive Photography Protocol:
 - Environmental Storage Controls: Store embedded samples in a controlled environment with stable temperature (20±2°C), low humidity (<50% RH), and minimize mechanical stress. Use desiccant if needed to control moisture exposure.
 - Sample Labeling Protocol: Apply comprehensive labeling system including unique sample identification numbers, preparation date, operator identification, and critical preparation parameters. Use permanent marking methods resistant to solvents and mechanical handling during subsequent processing.
 - Quality Pre-Assessment: Conduct final quality assessment before releasing samples for sectioning including visual inspection, dimensional verification, and mechanical integrity testing. Document sample condition and any recommendations or precautions for sectioning personnel.
-
 
