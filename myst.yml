@@ -6,9 +6,13 @@ project:
   description: Sulfur Embedding for Ultramicrotomy.
   short_title: Ultramicrotomy Methods
   keywords:
-    - Keyword One
-    - Keyword Two
-    - Spell Out Acronyms
+    - ultramicrotomy
+    - sulfur embedding
+    - ultrathin sectioning
+    - TEM sample preparation
+    - transmission electron microscopy
+    - astromaterials
+    - extraterrestrial materials
   github: https://github.com/msa-em/um-methods
   jupyter: true
   # jupyter:
@@ -52,6 +56,7 @@ project:
         - Writing - original draft
     - id: rhonda
       name: Rhonda Stroud
+      corresponding: true
       email: rstroud1@asu.edu
       orcid: 0000-0001-8338-3323
       affiliations:
@@ -78,11 +83,18 @@ project:
   #     recipients:
   #       - cophus
   abbreviations:
-    4D-STEM: four dimensional scanning transmission electron microscopy
+    4D-STEM: four-dimensional scanning transmission electron microscopy
+    EDS: energy-dispersive X-ray spectroscopy
+    ELNES: electron energy-loss near-edge structure
     FFT: fast Fourier transform
-    HAADF: high angle annular dark field
-    HRTEM: high resolution transmission electron microscopy
-    M&M: Microscopy and Microanalysis
+    FIB: focused ion beam
+    FIB-SEM: focused ion beam scanning electron microscopy
+    HAADF: high-angle annular dark field
+    HRTEM: high-resolution transmission electron microscopy
+    S/TEM: scanning/transmission electron microscopy
+    SIMS: secondary ion mass spectrometry
     STEM: scanning transmission electron microscopy
+    STXM-XANES: scanning transmission X-ray microscopy X-ray absorption near-edge structure
+    TEM: transmission electron microscopy
 site:
   template: book-theme
