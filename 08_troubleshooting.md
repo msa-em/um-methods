@@ -16,7 +16,6 @@ title: Troubleshooting Guide
 *   - inconsistent thickness and shape, wrinkled appearance
 	- dull knife, excessive feed rate, wrong clearance angle
 	- reduce cutting speed, increase clearance angle, install sharper knife, reduce feed rate, monitor cutting force
-:::
 
 :::{tab-item} Chatter
 

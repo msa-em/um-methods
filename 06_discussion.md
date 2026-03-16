@@ -23,7 +23,7 @@ This removability property has made sulfur embedding particularly valuable for e
 ### Protocol Limitations:
 - Particle size restrictions based on sample hardness
 - Potential for plucking artifacts in samples with high mineral hardness contrast
-Requirement for specialized temperature control equipment
+- Requirement for specialized temperature control equipment
 - Limited long-term storage stability compared to epoxy embedding
 - Issues with sulfur reactivity post-sublimation (copper sulfate dendrite)
 
