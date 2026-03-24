@@ -16,7 +16,7 @@ title: Microtomy Protocol
 :::
 
 :::{figure} ./figures/fig_4.png
-:name: sample_chuck
+:name: sample_chuck_mounting
 **Mounting the specimen chuck into the ultramicrotome specimen arm.** The specimen chuck, containing the embedded sample block, is securely inserted into the specimen arm holder of the ultramicrotome. Proper mounting ensures stable specimen positioning and prevents vibration during sectioning. The chuck is aligned and tightened to maintain the correct orientation of the sample block relative to the knife edge, with the block face positioned perpendicular to the cutting direction for optimal sectioning quality.
 :::
 
@@ -94,11 +94,11 @@ Move the knife back several steps (25 μm) to avoid accidentally crashing the su
 **Final cut face of the sulfur sample after polishing with the glass knife.** Note the bright, mirror-like reflections from the fully polished edges, indicating excellent surface quality and readiness for diamond knife sectioning.
 :::
 
-Shavings should look "fronthy" and evolve into a translucent, solid peel.
+Shavings should look "frothy" and evolve into a translucent, solid peel.
 
 :::{figure} ./figures/final_rough_cutting.mp4
 :name: rough_cut_final
-**Final stage of rough cutting and polishing the pyrimid face.** Video illustrating the final steps of surface polishing of the block face using a glass knife to achieve optical flatness before transition to a diamond knife, ensuring that residual chatter marks, compression artifacts, and surface irregularities introduced during rough cutting are minimized.
+**Final stage of rough cutting and polishing the pyramid face.** Video illustrating the final steps of surface polishing of the block face using a glass knife to achieve optical flatness before transition to a diamond knife, ensuring that residual chatter marks, compression artifacts, and surface irregularities introduced during rough cutting are minimized.
 :::
 
 :::{figure} ./figures/fig_23.png
@@ -147,7 +147,7 @@ Shavings should look "fronthy" and evolve into a translucent, solid peel.
 
 :::{tip}
 :class: myclass1 myclass2
-:name: a-tip-reference
+:name: section_integrity_tip
 Continuously check for section integrity such as:
 - Compression artifacts
 	- Tears, folds, or separations
@@ -178,7 +178,7 @@ Continuously check for section integrity such as:
 :::
 
 :::{figure} ./figures/Fig2_mm.jpg
-:name: ideal_ribbon
+:name: ideal_ribbon_still
 **High-quality ribbon of consecutive 50 nm sulfur sections in the water bath.** Note the excellent uniformity in section shape and thickness throughout the ribbon, demonstrating ideal ultramicrotomy conditions suitable for high-resolution TEM analysis. Color has transitioned from highly reflective blue and gold to nearly transparent. Section A is the first sample slice, and Section B is the final section cut (shown in ribbon on left). They are shown side by side (right) to demonstrate what the goal is for a final section. This figure demonstrates common features: chatter (green), sample plucking (teal), and compression defects in the sample (magenta), section buckling and ripping (white dashed lines) in the sulfur section matrix. Section B demonstrates a section in the same ribbon but further in the process, with minimal chatter, less sample plucking, less compression defect, minimal ripping, no wrinkles in sulfur section matrix.
 
 :::
@@ -201,7 +201,7 @@ Continuously check for section integrity such as:
 
 :::{tip}
 :class: myclass1 myclass2
-:name: a-tip-reference
+:name: floating_sections_tip
 Accidentally touching the middle of the floating sections can destroy sections altogether. Avoid this by working slowly and touching only near the edges and "paddling" the water around the sections to move them.
 :::
 
@@ -220,7 +220,7 @@ The operator grasps a TEM grid by its edge using fine-tipped tweezers. The grid 
 
 :::{tip}
 :class: myclass1 myclass2
-:name: a-tip-reference
+:name: grid_tweezer_tip
 Never grip grids with tweezers into film, only clip on the metal frame or the film/samples will be damaged.
 :::
 
@@ -237,7 +237,7 @@ Never grip grids with tweezers into film, only clip on the metal frame or the fi
 **View of the mounted sulfur ribbon showing the actual sample (in magenta) embedded within the sections, allowing for assessment of sample preservation and distribution within the ultrathin sections.**
 :::
 
-#### Critical Success Factors
+### Critical Success Factors
 - Maintain minimal contamination conditions at all times.
 - Exercise patience during all manipulation procedures.
 - Use steady, controlled techniques for all movements.
@@ -245,10 +245,7 @@ Never grip grids with tweezers into film, only clip on the metal frame or the fi
 
 :::{tip}
 :class: myclass1 myclass2
-:name: a-tip-reference
-**Documentation is extremley important before baking and after.** Document every step thoroughly for reproducibility and troubleshooting. The sulfur sections are easy to see in reflected light, but identifying the locations of the sample in the sulfur will ultimately help identify sample locations post-sublimation. 
+:name: documentation_tip
+**Documentation is extremely important before baking and after.** Document every step thoroughly for reproducibility and troubleshooting. The sulfur sections are easy to see in reflected light, but identifying the locations of the sample in the sulfur will ultimately help identify sample locations post-sublimation. 
 :::
-
-
-
 

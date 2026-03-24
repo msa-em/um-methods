@@ -3,12 +3,16 @@ version: 1
 project:
   id: msa-em-um-methods-1
   title: Ultramicrotomy Methods
-  description: Sulfur Embedding for Ultramictrotomy.
-  short_title: UM Methods
+  description: Sulfur Embedding for Ultramicrotomy.
+  short_title: Ultramicrotomy Methods
   keywords:
-    - Keyword One
-    - Keyword Two
-    - Spell Out Acronyms
+    - ultramicrotomy
+    - sulfur embedding
+    - ultrathin sectioning
+    - TEM sample preparation
+    - transmission electron microscopy
+    - astromaterials
+    - extraterrestrial materials
   github: https://github.com/msa-em/um-methods
   jupyter: true
   # jupyter:
@@ -36,13 +40,9 @@ project:
       name: Anna S.H. Kulenguski
       corresponding: true
       email: ahindric@asu.edu
-      orcid: 0000-0003-2348-8558
+      orcid: 0009-0003-5378-0928
       affiliations:
-        - id: ncem
-          department: School of Earth and Space Exploration
-          institution: Arizona State University
-          address: 1151 S Forest Ave, Tempe, Arizona, USA 85287
-          ror: 02jbv0t02
+        - asu
       roles:
         - Conceptualization
         - Funding acquisition
@@ -52,20 +52,22 @@ project:
         - Writing - original draft
     - id: rhonda
       name: Rhonda Stroud
+      corresponding: true
       email: rstroud1@asu.edu
-      orcid: 0000-0001-8338-3323
+      orcid: 0000-0001-5242-8015
       affiliations:
-        - id: miller
-          department: Buseck Center for Meteorite Studies
-          institution: Arizona State University
-          address: 1151 S Forest Ave, Tempe, Arizona, USA 85287
-          ror: 01an7q238
+        - asu
       roles:
         - Conceptualization
         - Software
         - Validation
         - Visualization
         - Writing - original draft
+  affiliations:
+    - id: asu
+      institution: Arizona State University
+      address: 1151 S Forest Ave, Tempe, Arizona, USA 85287
+      ror: 03efmqc40
   # funding:
   #   - statement: We thank the Microscopy Society of America for sponsoring this project.
   #     recipients:
@@ -78,11 +80,18 @@ project:
   #     recipients:
   #       - cophus
   abbreviations:
-    4D-STEM: four dimensional scanning transmission electron microscopy
+    4D-STEM: four-dimensional scanning transmission electron microscopy
+    EDS: energy-dispersive X-ray spectroscopy
+    ELNES: electron energy-loss near-edge structure
     FFT: fast Fourier transform
-    HAADF: high angle annular dark field
-    HRTEM: high resolution transmission electron microscopy
-    M&M: Microscopy and Microanalysis
+    FIB: focused ion beam
+    FIB-SEM: focused ion beam scanning electron microscopy
+    HAADF: high-angle annular dark field
+    HRTEM: high-resolution transmission electron microscopy
+    S/TEM: scanning/transmission electron microscopy
+    SIMS: secondary ion mass spectrometry
     STEM: scanning transmission electron microscopy
+    STXM-XANES: scanning transmission X-ray microscopy X-ray absorption near-edge structure
+    TEM: transmission electron microscopy
 site:
   template: book-theme

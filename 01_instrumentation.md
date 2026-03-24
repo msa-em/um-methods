@@ -3,7 +3,7 @@ title: Instrumentation
 ---
 
 ## Ultramicrotome
-The essential components of a microtome are: a sample mounted in/on a bullet of epoxy; a chuck to secure the bullet; a knife blade; a mechanism to advance the sample towards the knife, and raise and lower the sample vertically at the knife edge.
+The essential components of a microtome are: a sample mounted in or on a bullet of epoxy; a chuck to secure the bullet; a knife blade; a mechanism to advance the sample towards the knife, and raise and lower the sample vertically at the knife edge.
 Automated ultramicrotomes advance the specimen arm holding the embedded sample block towards the cutting knife edge with precision and reproducibility. 
 The knife stage maintains the cutting edge at adjustable clearance angles, typically 6°, optimized for the specimen's properties. A stereomicroscope with appropriate illumination permits real-time monitoring of the sectioning process. The sample slices float off of the knife into a bath, usually filled with water.
 Either glass or diamond knives can be used, depending on the materials being cut and the desired thickness. 
@@ -27,7 +27,7 @@ The mechanical system controls the sectioning interval and determines section th
 
 ### Knife and Knife Holder: 
 The ultramicrotome uses either a glass knife for initial rough cuts or diamond knife for most ultra-thin sectioning. 
-Diamond knives come in different angles, typically 35°or 45°, with edge lengths ranging from 1 to 7 mm depending on the application. 
+Diamond knives come in different angles, typically 35° or 45°, with edge lengths ranging from 1 to 7 mm depending on the application. 
 The knife has an attached boat or trough that holds water, allowing the sections to float as they are cut.
 
 :::{figure} ./figures/fig_3.png

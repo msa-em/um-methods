@@ -5,9 +5,9 @@ title: Troubleshooting Guide
 
 ::::{tab-set}
 
-:::{tab-item} Compression 
+:::{tab-item} Compression
 
-:::{list-table}
+```{list-table}
 :widths: 15 15 30
 :header-rows: 1
 
@@ -15,14 +15,15 @@ title: Troubleshooting Guide
     - **Causes**
     - **Solutions**
 *   - inconsistent thickness and shape, wrinkled appearance
-	- dull knife, excessive feed rate, wrong clearance angle
-	- reduce cutting speed, increase clearance angle, install sharper knife, reduce feed rate, monitor cutting force
+    - dull knife, excessive feed rate, wrong clearance angle
+    - reduce cutting speed, increase clearance angle, install sharper knife, reduce feed rate, monitor cutting force
+```
+
 :::
 
 :::{tab-item} Chatter
 
-
-:::{list-table}
+```{list-table}
 :widths: 15 15 30
 :header-rows: 1
 
@@ -30,29 +31,31 @@ title: Troubleshooting Guide
     - **Causes**
     - **Solutions**
 *   - regular oscillation marks on sections, "ripping"
-	- vibration, loose mounting, resonance
-	- identifying vibration sources, improve isolation, check block mounting stability, lower feed rate/speed
+    - vibration, loose mounting, resonance
+    - identifying vibration sources, improve isolation, check block mounting stability, lower feed rate/speed
+```
+
 :::
 
 :::{tab-item} Edge Chipping
 
-
-:::{list-table}
+```{list-table}
 :widths: 15 15 30
 :header-rows: 1
- 
+
 *   - **Symptoms**
     - **Causes**
     - **Solutions**
 *   - irregular edges, debris in sections
-	- knife dullness, excessive force, brittle fracture
-	- lower feed rate, adjust approach angle, verify knife sharpness
+    - knife dullness, excessive force, brittle fracture
+    - lower feed rate, adjust approach angle, verify knife sharpness
+```
+
 :::
 
 :::{tab-item} Empty Space/Bubbles
 
-
-:::{list-table}
+```{list-table}
 :widths: 15 15 30
 :header-rows: 1
 
@@ -60,17 +63,15 @@ title: Troubleshooting Guide
     - **Causes**
     - **Solutions**
 *   - holes in section, sample drop out, chatter
-	- bubbles inside the molten sulfur
-	- heat sulfur slowly and evenly, avoid excess movement while embedding
+    - bubbles inside the molten sulfur
+    - heat sulfur slowly and evenly, avoid excess movement while embedding
+```
 
 :::
 
-
-
 :::{tab-item} Discoloration
 
-
-:::{list-table}
+```{list-table}
 :widths: 15 15 30
 :header-rows: 1
 
@@ -78,8 +79,9 @@ title: Troubleshooting Guide
     - **Causes**
     - **Solutions**
 *   - sulfur color change from light yellow to orange
-	- overheating
-	- monitor temperature carefully, use temperature controlled heating and consistenct calibration to avoid scorching, keep sulfur temperature below 120°C, do not re-use sulfur, discard discolored sulfur
+    - overheating
+    - monitor temperature carefully, use temperature-controlled heating and consistent calibration to avoid scorching, keep sulfur temperature below 120°C, do not re-use sulfur, discard discolored sulfur
+```
 
 :::
 
@@ -124,4 +126,3 @@ title: Troubleshooting Guide
 ```{figure} ./figures/overheated_annotated_final.png
 **Representative crystallized sulfur droplets showing correct (left) and overheated (right) samples.** The left droplet displays the expected coloration indicative of properly processed sulfur, while the right droplet exhibits an orange discoloration characteristic of thermal degradation or scorching. Overheating causes partial oxidation or structural changes in the sulfur crystal lattice, resulting in the observed color shift.
 ```
-:::
