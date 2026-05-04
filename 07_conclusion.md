@@ -1,5 +1,7 @@
 ---
 title: Conclusions
+numbering:
+  enumerator: 7.%s
 ---
 ## Summary and Outlook
 

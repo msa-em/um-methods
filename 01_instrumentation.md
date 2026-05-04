@@ -1,5 +1,7 @@
 ---
 title: Instrumentation
+numbering:
+  enumerator: 1.%s
 ---
 
 ## Ultramicrotome

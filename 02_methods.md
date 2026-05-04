@@ -1,5 +1,7 @@
 ---
 title: Methods
+numbering:
+  enumerator: 2.%s
 ---
 
 ## Materials and Set Up
