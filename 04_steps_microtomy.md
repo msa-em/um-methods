@@ -1,5 +1,7 @@
 ---
 title: Microtomy Protocol
+numbering:
+  enumerator: 4.%s
 ---
 
 

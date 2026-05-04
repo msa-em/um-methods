@@ -1,5 +1,7 @@
 ---
 title: Particle Picking and Sulfur Embedding Protocol
+numbering:
+  enumerator: 3.%s
 ---
 
 

@@ -1,5 +1,7 @@
 ---
 title: Discussion
+numbering:
+  enumerator: 6.%s
 ---
 
 ## Sulfur as an Embedding Medium
