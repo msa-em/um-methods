@@ -1,6 +1,7 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
+  doi: 10.69761/rdeh3786
   id: msa-em-um-methods-1
   title: Ultramicrotomy Methods
   description: Sulfur Embedding for Ultramicrotomy.
@@ -24,6 +25,10 @@ project:
   # banner: banner.png
   # thumbnail: thumbnail.webp
   date: 2026-01-21
+  venue:
+    title: Elemental Microscopy
+    short_title: EM
+    doi: 10.69761/EM
   requirements:
     - 'Dockerfile'
     - requirements.txt
