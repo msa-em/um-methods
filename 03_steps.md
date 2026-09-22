@@ -35,13 +35,12 @@ numbering:
 ### Prepare Sample Slides
 - Slide Preparation Protocol: Use only high-grade optical glass slides, cleaned with isopropanol, and air dried. Inspect slides under microscope for scratches, particles, or residue that could interfere with observations.
 - Sulfur Mounting (Slide #1): Mount high-purity elemental sulfur crystals on clean glass slide using minimal mechanical pressure to avoid contamination. Distribute sulfur evenly to create multiple potential droplet sites. Document sulfur crystal size and distribution with photographs at consistent magnification and lighting.
-- Sample Mounting (Slide #2): Mount target astromaterial sample grains on second slide with sufficient spacing to prevent cross-contamination during picking. Use anti-static synthetic sapphire crystal (aluminum oxide, Al₂O₃) brush that has been treated or manufactured to have anti-static properties to prevent particle loss.
+- Sample Mounting (Slide #2): Mount target sample grains on second slide with sufficient spacing to prevent cross-contamination during picking. Use anti-static synthetic sapphire crystal (aluminum oxide, Al₂O₃) brush that has been treated or manufactured to have anti-static properties to prevent particle loss.
 - Positioning Optimization: Arrange both slides within micromanipulator stage travel limits, ensuring easy transition between sulfur source and sample areas. Test mechanical movements between positions to verify smooth operation.
-Sample Preparation and Documentation
 
 ### Initial Sample Documentation
 - Comprehensive Photography: Document all sample areas using standardized photography protocols with consistent lighting, magnification, and white balance settings. Capture overview images at low magnification followed by detailed images at higher magnification of each particle cluster. Use calibrated scale bars and include sample identification information in each frame.
-- Secure Sample Mounting: Mount meteorite samples on ultra-clean glass slides using minimal force to prevent particle fracturing. Use anti-static mounting techniques to prevent electrostatic particle loss. 
+- Secure Sample Mounting: Mount samples on ultra-clean glass slides using minimal force to prevent particle fracturing. Use anti-static mounting techniques to prevent electrostatic particle loss. 
 - Detailed Mapping: Create detailed reference maps showing particle positions relative to slide landmarks such as corners or scribed marks. Assign unique identification numbers to each target particle and record size, morphology, and distinguishing characteristics. Use a coordinate measuring system if available for precise position recording.
 - Environmental Controls: Record ambient temperature, humidity, and cleanliness conditions. Document any observed particle movement or electrostatic behavior. Note any particles showing signs of alteration, contamination, or mechanical damage that might affect picking success.
 
@@ -66,7 +65,7 @@ Sample Preparation and Documentation
 
 ### Target Particle Location
 - Initial Survey Protocol: Begin systematic survey using lowest magnification to map entire sample area and identify particle clusters of interest. Mark regions of interest for detailed examination.
-- Target Selection Criteria: Identify particles based on predetermined selection criteria such as size range (typically 5-50 μm for optimal sectioning), morphology, composition, or specific scientific objectives. Avoid particles showing signs of terrestrial alteration, fracturing, or contamination. Prioritize particles with optimal geometry for intended analysis.
+- Target Selection Criteria: Identify particles based on predetermined selection criteria such as size range (typically 5-50 μm for optimal sectioning), morphology, composition, or specific scientific objectives. 
 - High-Magnification Examination: Switch to higher magnification for detailed examination of selected particles. Document particle morphology, surface texture, transparency, color, and any internal features visible at high magnification. Record measurements of particle dimensions.
 - Priority Ranking System: Establish priority ranking for target particles based on scientific value, picking difficulty, and success probability. Focus initial efforts on highest priority, most accessible particles. Consider creating a backup particle list in case primary targets cannot be successfully picked.
 
@@ -103,7 +102,7 @@ Sulfur Droplet Assessment: Verify sulfur droplet remains in optimal molten state
 :::{tip}
 :class: myclass1 myclass2
 :name: a-tip-reference
-Initial sulfur melt (around 115 °C) should melt into a pale yellow, low-viscosity liquid. If sulfur becomes orange, heat is too high (>116 °C or on heat too long), it will polymerize and structurally change.
+Initial sulfur melt (around 115 °C) should melt into a pale yellow, low-viscosity liquid. If sulfur becomes orange, heat is too high (>116 °C or on heat too long); it will polymerize and structurally change. Note that polymerization is not always undesirable — if a more polymerized, higher-viscosity sulfur matrix is preferred for a given application, higher embedding temperatures can be used intentionally, as demonstrated by Noguchi et al.[https://doi.org/10.3390/life10080135]. 
 :::
 
 - Controlled Descent: Lower particle-loaded needle into molten sulfur medium using controlled descent rate (typically 2-5 μm/second) while monitoring particle behavior and sulfur response. Watch for any bubble formation that could displace particles.
@@ -126,7 +125,7 @@ Matrix Thickness Control: Ensure uniform sulfur thickness on all sides of the pa
 ### Achieve Optimal Embedding Configuration
 - Uniform Distribution Assessment: Verify uniform sulfur distribution around particles. Look for complete sulfur coverage without voids, air pockets, or areas of insufficient thickness that could compromise mechanical integrity.
 - Air Bubble Prevention: Minimize air bubble incorporation through controlled movement techniques and proper sulfur temperature maintenance. If bubbles are observed, use needle tip to guide bubbles away from particle vicinity or burst surface bubbles before crystallization begins.
-- Particle Integrity Check: Verify particles remain intact and undamaged throughout the positioning process. Look for signs of fracturing, surface alteration, or contamination that might have occurred during manipulation. If damage is observed, consider repositioning or selecting alternative/additional particles.
+- Particle Integrity Check: Verify particles remain intact and undamaged throughout the positioning process. Look for signs of fracturing, alteration, or contamination that might have occurred during manipulation. If damage is observed, consider repositioning or selecting alternative/additional particles. Choose a representative sample particle.
 - Final Position Documentation: Create comprehensive photographic record of final particle position including multiple viewing angles and magnifications. Record precise coordinates and orientation data. Document sulfur droplet geometry and any special conditions or observations.
 
 ## Controlled Crystallization Process
@@ -162,7 +161,7 @@ Crystallization initiated from a discrete nucleation site proceeds outward in an
 - Controlled Cooling Protocol: Implement gradual cooling at a rate of 10°C per minute while maintaining nucleation point activity. Monitor temperature reduction carefully to prevent thermal shock that could cause rapid crystallization and internal stress development.
 - Crystal Growth Monitoring: Observe crystal growth progression under microscope using crossed polarizers if available to enhance crystal visibility. Look for characteristic sulfur crystal morphology and growth patterns. 
 - Fine-Grained Structure Promotion: Maintain conditions that promote fine-grained, uniform crystal structure by controlling cooling rate and nucleation density. Avoid rapid temperature changes that could cause large crystal formation or preferential growth directions that might compromise mechanical properties.
-- Stress Concentration Prevention: Monitor for formation of large, irregular crystals that create stress concentrations and preferential cleavage planes. If large crystals begin forming, increase cooling rate slightly or introduce additional nucleation points to interrupt the growth process.
+- Stress Concentration Prevention: Monitor for formation of large, irregular crystals that create stress concentrations and preferential cleavage planes. If large crystals begin forming, increase cooling rate slightly or introduce additional nucleation points to in upt the growth process.
 
 :::{figure} ./figures/fig_9.png
 :name: sulfur_crystal_2
@@ -226,3 +225,8 @@ Comprehensive Photography Protocol:
 - Sample Labeling Protocol: Apply comprehensive labeling system including unique sample identification numbers, preparation date, operator identification, and critical preparation parameters. Use permanent marking methods resistant to solvents and mechanical handling during subsequent processing.
 - Quality Pre-Assessment: Conduct final quality assessment before releasing samples for sectioning including visual inspection, dimensional verification, and mechanical integrity testing. Document sample condition and any recommendations or precautions for sectioning personnel.
 
+:::{tip}
+:class: myclass1 myclass2
+:name: sublimation_concern_tip
+**Samples should be stored at 20°C and low relative humidity.** This is necessary because sulfur has a non-negligible vapor pressure at room temperature and will slowly sublimate over extended storage periods; elevated temperature and humidity accelerate this process. Consequently, samples intended for long-term archiving or repeated re-sectioning should be imaged and sectioned as soon as practical after embedding. 
+:::

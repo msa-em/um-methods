@@ -15,6 +15,8 @@ The procedure was originally devised to measure energy-loss near-edge structure 
 This complete medium removal is a significant advantage, as it eliminates chemical interference during elemental analysis. Unlike epoxy resins that remain in sections and can interfere with spectroscopic analyses, sulfur embedding provides clean specimens ideal for studying organic materials and light elements where contamination-free analysis is critical, though it remains more specialized than epoxy for routine morphological studies.
 This removability property has made sulfur embedding particularly valuable for energy-loss near-edge structure (ELNES) analysis of light elements and X-ray absorption near-edge spectroscopy (STXM-XANES) of extraterrestrial materials, where contamination from embedding media would compromise analytical results [@10.1016/j.gca.2003.10.044; @10.1016/j.gca.2010.05.010; @10.1126/science.1207758; @10.1111/j.1945-5100.2011.01237.x; @10.1186/s40623-014-0156-0; @10.1038/s41598-019-39357-1]. The technique has been applied to the analysis of samples where preservation of original carbon, oxygen, and nitrogen chemical states is crucial for preserving original materials. Furthermore, the absence of polymerization-induced shrinkage in sulfur embedding provides superior dimensional accuracy compared to epoxy systems, making it advantageous for applications requiring precise morphological measurements or when dealing with thermally sensitive specimens that cannot tolerate the exothermic curing conditions of epoxy resins.
 
+Samples should be stored at 20°C and low relative humidity. This is necessary because sulfur has a non-negligible vapor pressure at room temperature and will slowly sublimate over extended storage periods; elevated temperature and humidity accelerate this process. Consequently, samples intended for long-term archiving or repeated re-sectioning should be imaged and sectioned as soon as practical after embedding. 
+
 ### Protocol Advantages
 - Reduced contamination risk through elimination of organic solvents and accelerators
 - Enhanced mechanical stability during sectioning due to improved particle-matrix adhesion
@@ -69,6 +71,7 @@ Quantifoil is a perforated support foil with precisely pre-defined hole size, sh
 *Pros:* Precisely defined geometry enables automated data collection; uniform hole sizes and spacing; ideal for cryo-TEM with uniform ice thickness; multiple patterns available for different applications; reproducible results.
 
 *Cons:* More expensive than conventional holey carbon grids; requires careful selection of hole pattern for specific application; may have residual polymer from manufacturing.
+
 
 
 

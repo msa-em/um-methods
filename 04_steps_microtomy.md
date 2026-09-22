@@ -77,11 +77,11 @@ Rotate sample chuck 180°
 - Align glass knife edge towards new right edge of sulfur droplet, maintaining clear boundaries around sample. Slowly move back to cut the clean polished boundary significantly into the sample. (15-20 μm)
 - Align the glass knife edge towards the right edge of the sulfur droplet, maintaining clear boundaries around the sample. Slowly move back to cut the clean polished boundary significantly into the sample. (15-25 μm)
 Move the knife back several steps (25 μm) to avoid accidentally crashing the surface into edge.
-- Rotate sample chuck 90°
+- Rotate sample chuck 90° (this rotation is primarily used to remove excess material before shaping the final trapezoid)
 - Align the glass knife edge towards the right edge of the sulfur droplet, maintaining clear boundaries around the sample. Slowly move back to cut the clean polished boundary significantly into the sample. (15-25 μm)
-- Rotate sample chuck 90°
+- Rotate sample chuck 90° (again, primarily to remove excess material before shaping the final trapezoid)
 - Align the glass knife edge towards the right edge of the sulfur droplet, maintaining clear boundaries around the sample. Slowly move back to cut the clean polished boundary significantly into the sample. (15-25 μm)
-
+- Change the cutting angles to 70° and 110° to form the final trapezoid shape. 
 
 :::{figure} ./figures/fig_21.png
 :name: rough_cutting
@@ -174,6 +174,8 @@ Continuously check for section integrity such as:
 ## Ribbon Capture and Placement
 - Locate the section chain floating on the water surface in the knife boat. The sections should appear a reflective silver-gold, indicating proper thickness.
 
+**Note: Section color uniformity should also be included as an assessment criterion, since a consistent interference color across a section indicates uniform thickness, while variation suggests uneven compression or knife instability during cutting. As with epoxy, sulfur section color arises from thin-film interference and should follow the same thickness-color relationship, though exact values will shift due to sulfur's higher refractive index (n ≈ 1.9–2.0 vs. ~1.5 for epoxy).**
+
 :::{figure} ./figures/ribbon_final.mp4
 :name: ideal_ribbon
 **High-quality ribbon of consecutive 50 nm sulfur sections in the water bath (video).** Interference color transitioning from gold to near-transparency confirms sections have reached the target thickness range. Section quality improves rapidly over successive cuts. Section B demonstrates a marked reduction in all identified artifacts, reflecting quick stabilization of knife-sample interaction. The uniform morphology throughout the ribbon indicating optimal ultramicrotomy conditions suitable for high-resolution TEM analysis.
@@ -184,6 +186,7 @@ Continuously check for section integrity such as:
 **High-quality ribbon of consecutive 50 nm sulfur sections in the water bath.** Note the excellent uniformity in section shape and thickness throughout the ribbon, demonstrating ideal ultramicrotomy conditions suitable for high-resolution TEM analysis. Color has transitioned from highly reflective blue and gold to nearly transparent. Section A is the first sample slice, and Section B is the final section cut (shown in ribbon on left). They are shown side by side (right) to demonstrate what the goal is for a final section. This figure demonstrates common features: chatter (green), sample plucking (teal), and compression defects in the sample (magenta), section buckling and ripping (white dashed lines) in the sulfur section matrix. Section B demonstrates a section in the same ribbon but further in the process, with minimal chatter, less sample plucking, less compression defect, minimal ripping, no wrinkles in sulfur section matrix.
 
 :::
+
 
 :::{figure} ./figures/fig_29.png
 :name: sample_compression
@@ -228,6 +231,12 @@ Never grip grids with tweezers into film, only clip on the metal frame or the fi
 
 - Dry the grid by tapping the edge of filter paper to the grid to wick away excess water, then allow it to air dry completely. 
 - Place grids (sample side up) overnight in an oven at 60°C to sublimate sulfur off of the grid. After this process, sample should be the only material on the TEM grids.
+
+:::{tip}
+:class: myclass1 myclass2
+:name: sublimation_tip
+ Sulfur can be removed from the ultra-thin sections by sublimation, using either of two approaches: (1) mild heating of the sections, or (2) placement in a separate vacuum chamber at room temperature. If using vacuum sublimation, this must be performed in a dedicated vacuum chamber or desiccator — not inside the TEM column itself — as sublimated sulfur can contaminate the TEM vacuum system and optics. Once sublimation is complete, sections can be transferred to the TEM for imaging, yielding specimens free of any embedding medium.
+:::
 
 :::{figure} ./figures/fig_31.png
 :name: sulfur_on_grids
