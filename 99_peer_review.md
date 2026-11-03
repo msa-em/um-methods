@@ -4,13 +4,13 @@ numbering:
   enumerator: B.%s
 ---
 
-### Reviewer 1
-
-{sub}`Zack Gainsforth, University of California, Berkeley`
-
 :::{danger} Author Response (general)
 Thank you very much for taking the time to review our manuscript. We greatly appreciate your careful reading and the thoughtful, constructive feedback you provided. Your comments and suggestions have helped us improve the clarity and rigor of the paper, and we are grateful for the time and expertise you devoted to this review.
 :::
+
+### Reviewer 1
+
+{sub}`Zack Gainsforth, University of California, Berkeley`
 
 :::{note} Reviewer Assessment
 - Does the manuscript provide a thorough review or tutorial on a foundational or advanced microscopy topic? **Yes.**
